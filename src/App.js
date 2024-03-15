@@ -7,7 +7,7 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/notice" element={<Board />}>
+        <Route path="/notice/list" element={<Board />}>
 
         </Route>
       </Routes>
